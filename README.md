@@ -1,4 +1,4 @@
-# DisDemo
+# DisDemo "Finding Route between two geo location using GPS "
 This Application Used GPS for finding the route between two Geo location points.
 
 This demo helps you to....
@@ -16,4 +16,5 @@ This demo helps you to....
 
 Get Google Maps Api from:  https://console.cloud.google.com/
 
-If you have any question regarding this apk you can reach me : sujan.m.uor@gmail.com
+If you have any question regarding this apk you can reach me ✉️ sujan.m.uor@gmail.com
+Fullrequests are warmly welcom... 👍
