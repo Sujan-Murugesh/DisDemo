@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sujan.disdemo">
-    //AIzaSyAGlxP_DWqUuEmaxIStPtwJ43Ic8RFnL4g
+    //AIzaSyA0png7Eav2LHgLhnBa3Yyv5qYmg8SKrYU
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -17,7 +17,7 @@
         //add these meta-data in application tag
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBNpAHMsQJCj5-FgnaQWU4mAOX5MOh4Ryc" />
+            android:value="AIzaSyA0png7Eav2LHgLhnBa3Yyv5qYmg8SKrYU" />
         <!-- Don't use my api key, it will not work for you.-->
 
         <meta-data android:name="com.google.android.gms.version"
